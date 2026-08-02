@@ -1,0 +1,10 @@
+out/
+*.session
+*.session-journal
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+result.json
+export/
